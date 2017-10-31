@@ -18,7 +18,7 @@ define([
            alert('Hi');
             return false;
         });
-    }
+    };
 
     return Component.extend({
         registerUrl: window.authenticationPopup.customerRegisterUrl,
