@@ -2,9 +2,9 @@
   "name": "eadesigndev/module-minilogin",
   "description": "N/A",
   "require": {
-    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
-    "magento/framework": "100.1.*",
-    "lib-libxml": "*"
+    "php": "~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0",
+    "magento/framework": "^100.1.0|^101.0.0",
+    "magento/module-theme": "^100.1.0| ^100.2.0"
   },
   "type": "magento2-module",
   "version": "0.0.2",
